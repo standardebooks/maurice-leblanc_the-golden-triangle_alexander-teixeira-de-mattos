@@ -26,24 +26,25 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Golden Triangle</dc:title>
 		<meta property="file-as" refines="#title">Golden Triangle, The</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
 		<dc:subject id="subject-2">Burglars -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Lupin, Arsène (Fictitious character) -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/34795</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/34795</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/34795</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85037260</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2009117895</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2010100204</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:collection">Arsène Lupin</meta>
 		<dc:description id="description">A captain’s longing for the woman who nursed him back to health drags him into a conspiracy of stolen gold.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Captain Belval, learning of a threat to his beloved nurse Little Mother Coralie, rescues her from her would-be assailants and is promptly dragged into a plot involving her husband and millions of francs worth of gold. As layer upon layer of conspiracy emerges with no obvious thread to follow, there’s only one man who can be counted on to uncover the truth.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Golden Triangle&lt;/i&gt; (also known as &lt;i&gt;The Return of Arsène Lupin&lt;/i&gt;) was published in 1917 in both the original French and this English translation. It is set a couple of years after the events of &lt;a href="https://standardebooks.org/ebooks/maurice-leblanc/the-teeth-of-the-tiger/alexander-teixeira-de-mattos"&gt;&lt;i&gt;The Teeth of the Tiger&lt;/i&gt;&lt;/a&gt;, and is representative of its time with themes of convalescent soldiers and continent-wide plots.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/34795</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100325002</dc:source>
