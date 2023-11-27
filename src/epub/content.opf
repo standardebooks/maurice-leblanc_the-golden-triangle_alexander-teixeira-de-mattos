@@ -49,7 +49,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/34795</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100325002</dc:source>
-		<meta property="se:word-count">89534</meta>
+		<meta property="se:word-count">89536</meta>
 		<meta property="se:reading-ease.flesch">75.1</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_golden_triangle</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maurice-leblanc_the-golden-triangle_alexander-teixeira-de-mattos</meta>
