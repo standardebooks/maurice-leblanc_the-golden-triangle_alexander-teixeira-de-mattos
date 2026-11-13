@@ -53,7 +53,6 @@
 		<dc:source>https://catalog.hathitrust.org/Record/100325002</dc:source>
 		<meta property="schema:wordCount">87889</meta>
 		<meta property="schema:educationalLevel">75.2</meta>
-		<link href="https://en.wikipedia.org/wiki/The_golden_triangle" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/maurice-leblanc_the-golden-triangle_alexander-teixeira-de-mattos" refines="#vcs-repository" rel="schema:codeRepository"/>
